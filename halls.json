@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "name": "The Empire Banquet",
+    "type": [
+        "Venue",
+        "Banquet"
+    ],
+    "images": [
+        "https://res.cloudinary.com/dpqfefym0/image/upload/v1720640402/Empire6_di6d1n.jpg",
+        "https://res.cloudinary.com/dpqfefym0/image/upload/v1720640402/Empire7_pzpjvm.jpg",
+        "https://res.cloudinary.com/dpqfefym0/image/upload/v1720640401/Empire2_e7pvvm.jpg",
+        "https://res.cloudinary.com/dpqfefym0/image/upload/v1720640401/Empire5_qnuck7.jpg",
+        "https://res.cloudinary.com/dpqfefym0/image/upload/v1720640401/Empire_gevhdu.jpg",
+        "https://res.cloudinary.com/dpqfefym0/image/upload/v1720640401/Empire4_ry9vr6.jpg"
+    ],
+    "location": "Hyderabad , Latifabad",
+    "price range": "200000 - 400000",
+    "socialMedia links": [
+        {
+            "facebook": "https://www.facebook.com/TheEmpireBanquet"
+        }
+    ],
+    "Description": "》A perfect location, Exceptional decoration and the Best day of your life... we have covered it all just for you《 Make your memories irreplaceable only at The Empire Banquet.",
+    "Contact Number": "+923378036606",
+    "address": {
+        "Iframe": "https://www.google.com/maps/place/The+Empire+Banquet/@25.372588,68.3594408,17z/data=!3m1!4b1!4m6!3m5!1s0x394c705f14e5feeb:0x425c30ecc68d89bd!8m2!3d25.372588!4d68.3620157!16s%2Fg%2F11clvvc9yt?entry=ttu",
+        "street": "Near Maajee Hospital, Unit No 7 :atifabad",
+        "city": "Hyderabad",
+        "postalCode": "71000",
+        "country": "Pakistan"
+    },
+    "Attributes": [
+        "Indoor",
+        "Palace",
+        "Banquet"
+    ]
+}
